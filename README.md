@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Smistav
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React
+- 🏆 I graduated from React and got a diploma 
+- 👀 I’m interested in Backend
+- 🌱 I’m currently learning Java
 
 <!---
 Smistav/Smistav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
